@@ -58,10 +58,7 @@ Config paths
 - Installed: `%AppData%\Davetrap\`
 - Logs: `%LocalAppData%\Davetrap\Logs\`
 
-## Roadmap (milestones)
 
-- M0 — Public build: parity with core features; stable installer + portable zip
-- M4 — Presence Composer: rule‑based Discord RPC with privacy filters
 
 ## Repository Structure (simplified)
 
