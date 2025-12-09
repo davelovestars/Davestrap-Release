@@ -85,12 +85,10 @@ Special thanks to open‑source bootstrapper projects whose ideas and groundwork
 - Fishtrap
 - Frostrap
 
-Davetrap continues their legacy — rebuilt with cleaner code, modular architecture, and stronger user safety.
+
 
 ## Developers
 
 -davedown
 
-## License
 
-This repository may include third‑party assets (icons, fonts, audio). Check their original licenses before redistribution.
