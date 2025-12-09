@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Resources/IconDavetrap.ico" alt="Davetrap" width="96" />
+  <img src="IconDavetrap.ico" alt="Davetrap" width="96" />
   
   <h1>Davetrap</h1>
   <p>A modern, community‑first Roblox bootstrapper — lean like Bloxstrap, polished like Fishtrap, built to outclass every fork.</p>
