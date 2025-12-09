@@ -2,7 +2,7 @@
   <img src="IconDavetrap.ico" alt="Davetrap" width="96" />
   
   <h1>Davetrap</h1>
-  <p>A modern, community‑first Roblox bootstrapper — lean like Bloxstrap, polished like Fishtrap, built to outclass every fork.</p>
+  <p>A modern, community‑first Roblox bootstrapper — lean like Bloxstrap, polished like Fishtrap, frostrap  built to optimize roblox.</p>
 </div>
 
 ## What Is Davetrap
